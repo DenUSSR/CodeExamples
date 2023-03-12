@@ -1,4 +1,6 @@
 # CodeExamples
 
 Output:
-Denis 24 25
+Name: Denis 
+Age: 24 
+25
